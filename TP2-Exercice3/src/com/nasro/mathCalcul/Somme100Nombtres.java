@@ -12,5 +12,5 @@ public class Somme100Nombtres {
 		// Affichage le resultat.
 		System.out.println("La somme des 100 premiers nombres: " + sum);
 	}
-
+//Nqsro
 }
